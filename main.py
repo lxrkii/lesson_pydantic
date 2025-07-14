@@ -38,3 +38,5 @@ try:
     print(f'Продукт: {product.title}, цена: {product.price}')
 except Exception as e:
     print(f'Ошибка валидации: {e}')
+
+# https://github.com/lxrkii/lesson_pydantic
